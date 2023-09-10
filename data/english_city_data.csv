@@ -1,0 +1,681 @@
+city,lat
+London,51.5072
+Birmingham,52.48
+Manchester,53.4794
+Liverpool,53.4075
+Portsmouth,50.8058
+Southampton,50.9025
+Nottingham,52.9533
+Bristol,51.4536
+Leicester,52.6344
+Coventry,52.4081
+Belfast,54.5964
+Stockport,53.4083
+Bradford,53.8
+Plymouth,50.3714
+Derby,52.9217
+Westminster,51.4947
+Wolverhampton,52.5833
+Norwich,52.6286
+Luton,51.8783
+Solihull,52.413
+Islington,51.544
+Aberdeen,57.15
+Croydon,51.3727
+Bournemouth,50.72
+Basildon,51.58
+Ilford,51.5575
+Warrington,53.39
+Kingswood,51.46
+Oxford,51.7519
+Harrow,51.5836
+West Bromwich,52.519
+Gloucester,51.8644
+Blackpool,53.8142
+Sale,53.424
+Tottenham,51.5975
+Cambridge,52.2053
+Romford,51.5768
+Colchester,51.8917
+High Wycombe,51.6287
+Gateshead,54.95
+Slough,51.5084
+Blackburn,53.748
+Chelmsford,51.73
+Rochdale,53.6136
+Rotherham,53.43
+Walthamstow,51.584
+Maidstone,51.272
+Basingstoke,51.2667
+Salford,53.483
+Hounslow,51.4668
+Wembley,51.5528
+Worcester,52.1911
+Hammersmith,51.4928
+Rayleigh,51.5864
+Hemel Hempstead,51.7526
+Bath,51.38
+Darlington,54.527
+Hove,50.8352
+Hastings,50.85
+Watford,51.655
+Stevenage,51.9017
+Hartlepool,54.69
+Chester,53.19
+Fulham,51.4828
+Nuneaton,52.523
+Ealing,51.5175
+Hayes,51.5127
+Aylesbury,51.8168
+Edmonton,51.6154
+Saint Albans,51.755
+Burnley,53.789
+Batley,53.7167
+Scunthorpe,53.5809
+Dudley,52.508
+Brixton,51.4575
+Paisley,55.8456
+Chatham,51.37
+Edgware,51.6185
+East Ham,51.5323
+Weston-super-Mare,51.346
+Carlisle,54.891
+South Shields,54.995
+East Kilbride,55.7644
+Burton upon Trent,52.8019
+Harrogate,53.9919
+Crewe,53.099
+Lowestoft,52.48
+Rugby,52.37
+Chingford,51.623
+Uxbridge,51.5404
+Southall,51.5121
+Walsall,52.58
+Grays,51.475
+Walton upon Thames,51.3868
+Thornton Heath,51.4002
+Finchley,51.599
+Kensington,51.5
+Boston,52.974
+Paignton,50.4353
+Waterlooville,50.88
+Hornchurch,51.5565
+Merthyr Tudful,51.743
+Mitcham,51.4009
+Feltham,51.4496
+Stourbridge,52.4575
+Hereford,52.056
+Rochester,51.375
+Dewsbury,53.691
+Acton,51.5135
+Twickenham,51.449
+Scarborough,54.2773
+Wrecsam,53.046
+Wandsworth,51.455
+Ellesmere Port,53.279
+Bangor,54.66
+Taunton,51.019
+Loughborough,52.77
+Barking,51.54
+Littlehampton,50.8094
+Ruislip,51.576
+Streatham,51.4279
+Royal Tunbridge Wells,51.132
+Bebington,53.35
+Barrow in Furness,54.1108
+Macclesfield,53.25
+Wellingborough,52.2939
+Kettering,52.3931
+Braintree,51.878
+Royal Leamington Spa,52.292
+Dunfermline,56.0719
+Altrincham,53.3838
+Lancaster,54.0489
+Crosby,53.4872
+Barri,51.405
+Bootle,53.4457
+Stratford,51.5423
+Folkestone,51.081
+Cumbernauld,55.945
+Andover,51.208
+Neath,51.66
+Rowley Regis,52.488
+Leith,55.98
+Yeovil,50.9452
+Eltham,51.451
+Sutton in Ashfield,53.125
+Morden,51.4015
+Barnet,51.6444
+West Bridgford,52.932
+Stretford,53.4466
+Beckenham,51.408
+Greenford,51.5299
+Cheshunt,51.702
+Salisbury,51.07
+Ashton,53.4897
+Surbiton,51.394
+Catford,51.4452
+Worksop,53.3042
+Morley,53.7492
+Middleton,53.555
+Fleet,51.2834
+Fareham,50.85
+Urmston,53.4487
+Sutton,51.3656
+Caerphilly,51.578
+Bridgwater,51.128
+Newbury,51.401
+Welling,51.4594
+Kirkby,53.48
+Ramsgate,51.336
+Castleford,53.716
+Strood,51.393
+Cleethorpes,53.5533
+Ilkeston,52.971
+Chorley,53.653
+Herne Bay,51.37
+Bishops Stortford,51.872
+Arnold,53.005
+Coalville,52.724
+Bletchley,51.994
+Leighton Buzzard,51.9165
+Airdrie,55.86
+Blyth,55.126
+Laindon,51.574
+Llanelli,51.684
+Bicester,51.9
+Beeston,52.927
+Small Heath,52.4629
+Whitley Bay,55.0456
+Denton,53.4554
+Falkirk,56.0011
+Walkden,53.5239
+Kenton,51.5878
+Bridlington,54.0819
+Billingham,54.61
+Dunstable,51.886
+Spalding,52.7858
+Grantham,52.918
+North Shields,55.0097
+Colwyn Bay,53.29
+Hitchin,51.947
+Rainham,51.36
+Wickford,51.6114
+Letchworth,51.978
+Huyton,53.4111
+Abingdon,51.667
+Trowbridge,51.32
+Wigston Magna,52.5812
+Didcot,51.606
+Earley,51.433
+Borehamwood,51.6578
+Bexleyheath,51.459
+Prestwich,53.5333
+Ecclesfield,53.4429
+Darwen,53.698
+Pontypridd,51.602
+Rutherglen,55.828
+Saint Neots,52.228
+Pinner,51.5932
+Dover,51.1295
+Chichester,50.8365
+Deal,51.2226
+Northolt,51.5467
+Wishaw,55.7742
+Carshalton,51.3652
+Bulwell,53.001
+Kendal,54.326
+Cramlington,55.082
+Bromsgrove,52.3353
+Pont-y-pŵl,51.703
+Hanwell,51.509
+Hertford,51.7966
+Frome,51.2279
+Wood Green,51.5981
+Daventry,52.2578
+Darlaston,52.5708
+Ashington,55.181
+Longton,52.9877
+Melton Mowbray,52.7661
+Aldridge,52.606
+Farnworth,53.5452
+Highbury,51.552
+Newton Aycliffe,54.62
+Cheadle Hulme,53.3761
+Bournville,52.4299
+Shenley Brook End,52.009
+Consett,54.85
+Northfield,52.408
+Coulsdon,51.3211
+Bilston,52.566
+Wellington,52.7001
+Bishop Auckland,54.663
+Longbridge,52.395
+Bloxwich,52.614
+Upminster,51.5557
+Rhyl,53.321
+Droitwich,52.267
+Hindley,53.5355
+Westhoughton,53.549
+Ryde,50.7271
+Gorleston-on-Sea,52.5757
+Thornaby on Tees,54.5585
+Kings Norton,52.4072
+Plymstock,50.3569
+Barnstaple,51.08
+Arbroath,56.561
+Caversham,51.467
+Oadby,52.5987
+Stalybridge,53.4834
+Stanmore,51.618
+Droylsden,53.4828
+Perry Barr,52.5249
+Gosforth,55.007
+Whitefield,53.5521
+Penwortham,53.74
+Harborne,52.46
+Swinton,53.5122
+Market Harborough,52.4775
+Erdington,52.5236
+Clifton,52.904
+Stratton Saint Margaret,51.586
+Wednesfield,52.5998
+Farsley,53.8116
+Guiseley,53.875
+March,52.551
+Tiverton,50.903
+Litherland,53.4727
+Acomb,53.955
+Newton in Makerfield,53.45
+Penarth,51.43
+Camborne,50.213
+Newquay,50.412
+Northwood,51.601
+Atherton,53.523
+Belper,53.029
+Sheldon,52.45
+Yate,51.5402
+Bailleston,55.8474
+Truro,50.26
+Chandlers Ford,50.984
+Royton,53.566
+Clevedon,51.438
+Dronfield,53.3024
+Ossett,53.68
+Woodlesford,53.7567
+Wallington,51.3647
+Norton,54.589
+Leek,53.108
+Leigh-on-Sea,51.5425
+Boscombe,50.725
+Failsworth,53.5102
+Kirkstall,53.816
+Maesteg,51.61
+Shoreham-by-Sea,50.834
+Hythe,50.869
+Maghull,53.5174
+Rothwell,53.7485
+Seaham,54.84
+Peterlee,54.76
+Killingworth,55.0318
+Horwich,53.592
+Bispham,53.852
+Biddulph,53.12
+Stoke Gifford,51.517
+Selby,53.7818
+Stamford,52.656
+Davyhulme,53.4559
+Burnham-on-Sea,51.2376
+Abbots Langley,51.701
+Great Linford,52.068
+Dukinfield,53.4739
+Peterhead,57.5091
+Ecclesall,53.362
+Hebburn,54.972
+Frimley,51.3143
+Molesey,51.401
+Prestatyn,53.331
+Calne,51.438
+Southbourne,50.722
+Broughty Ferry,56.4672
+Bedlington,55.133
+Hadleigh,51.5535
+Bingley,53.846
+Warminster,51.205
+Redhill,51.2393
+Bourne,52.7684
+Colne,53.8554
+Tonypandy,51.6223
+Moreton,53.401
+Fern Down,50.81
+Bonnyrigg,55.8747
+Quedgeley,51.825
+Houghton Regis,51.9039
+Friern Barnet,51.6126
+Milton,53.05
+Cottingham,53.7822
+Clitheroe,53.8711
+Heckmondwike,53.708
+Clayton,53.782
+High Blantyre,55.793
+Maltby,53.426
+Haslingden,53.705
+Devizes,51.3528
+Fazakerley,53.4676
+Connahs Quay,53.218
+Plumstead,51.49
+Wellington,50.9755
+Whickham,54.9456
+Keynsham,51.4135
+Cleckheaton,53.725
+Cowley,51.733
+Enfield Lock,51.6686
+Kilwinning,55.655
+Westbury,51.26
+Stepney,51.5152
+Basford,52.978
+Brackley,52.032
+Tyldesley,53.5166
+East Barnet,51.643
+Upton,53.385
+Johnstone,55.8346
+Worcester Park,51.3752
+South Hayling,50.7876
+Addlestone,51.3695
+Royston,52.0471
+Buckley,53.172
+Porthcawl,51.48
+Nailsea,51.43
+West Ham,51.534
+Shipley,53.833
+Baildon,53.851
+Wombwell,53.516
+Llantrisant,51.542
+Hazel Grove,53.375
+Dawlish,50.581
+Bidston,53.402
+Verwood,50.8815
+Palmers Green,51.6178
+New Brighton,53.432
+Netherton,52.4908
+Hessle,53.7239
+Kew Green,51.5308
+West Wickham,51.3765
+Bromborough,53.336
+Baguley,53.399
+Balham,51.4434
+Larkhall,55.737
+Prestwick,55.4956
+Melksham,51.371
+Wibsey,53.7672
+Lowton,53.471
+Moston,53.5156
+Thornbury,51.6094
+Deysbrook,53.429
+Armthorpe,53.5352
+Southgate,51.6316
+Dollis Hill,51.5641
+West Derby,53.4338
+West Drayton,51.5043
+Rottingdean,50.815
+Kidbrooke,51.4621
+Rock Ferry,53.373
+Shirley,51.3813
+Patcham,50.864
+Seacroft,53.8222
+Maldon,51.7318
+Leyton,51.57
+Hythe,51.0716
+Childwall,53.395
+Nantwich,53.067
+Marlow,51.57
+Pemberton,53.536
+Brierley Hill,52.4795
+Rustington,50.8102
+Cosham,50.8424
+Rosyth,56.0339
+Kidlington,51.823
+Whitby,54.4858
+Rossington,53.4759
+Hilsea,50.83
+Clifton,53.9721
+Little Hulton,53.53
+Chaddesden,52.9301
+Amblecote,52.46
+Egg Buckland,50.4006
+Shiremoor,55.0366
+Shirebrook,53.2048
+West Boldon,54.945
+Linlithgow,55.9791
+Dingle,53.3774
+Walsall Wood,52.6277
+Fraserburgh,57.693
+Caerfyrddin,51.856
+Wollaston,52.4619
+Chard,50.8728
+Goodmayes,51.5631
+Pendlebury,53.5075
+Holborn,51.5204
+Midsomer Norton,51.2842
+Gornalwood,52.523
+Yiewsley,51.513
+Shenley Church End,52.022
+Leagrave,51.903
+Buckingham,51.995
+Milngavie,55.9421
+Brownhills,52.647
+Hornsey,51.587
+Sutton on Hull,53.7806
+Wolverton,52.0626
+Barton upon Irwell,53.476
+Blunsdon Saint Andrew,51.61
+Coseley,52.55
+Ovenden,53.7432
+Chepstow,51.642
+Lye,52.459
+Giffnock,55.8051
+Thatto Heath,53.4352
+Sedgley,52.54
+Minehead,51.2038
+Snaresbrook,51.587
+Sandown,50.6551
+Hoyland Nether,53.4985
+Hackney,51.5414
+Wallingford,51.599
+Belgrave,52.6566
+Wanstead,51.5778
+Blundellsands,53.48
+Brislington,51.4316
+Culcheth,53.4517
+Sandridge,51.7808
+Holyhead,53.309
+Haydock,53.4678
+Wealdstone,51.5957
+Harrow Weald,51.604
+Carnoustie,56.501
+Burslem,53.0426
+Mountain Ash,51.6814
+Castle Bromwich,52.505
+Linslade,51.9243
+Prescot,53.4286
+Eckington,53.308
+Aylestone,52.604
+Southborough,51.1598
+Timperley,53.387
+Bottesford,53.5521
+Cudworth,53.5784
+Oakham,52.6705
+Highgate,51.5716
+Hollinwood,53.5183
+Earlestown,53.45
+Flixton,53.447
+Parkstone,50.71
+Royston,53.61
+Ormesby,54.5492
+Hatch End,51.601
+Ryhope,54.8679
+Holbeach,52.8037
+Eccleston,53.4539
+Bradford-on-Avon,51.347
+Gourock,55.9538
+Stranraer,54.902
+Spitalfields,51.5166
+Cheam,51.36
+Lemington,54.972
+New Silksworth,54.871
+Forres,57.608
+Lydney,51.7286
+Marton,54.5372
+Bishopstoke,50.9679
+Aberaman,51.7
+Birchington,51.377
+Nairn,57.586
+Handsworth,53.37
+Liskeard,50.4536
+Stocksbridge,53.478
+Kippax,53.7669
+Tottington,53.613
+Whitchurch,52.969
+Helston,50.1
+Raynes Park,51.4033
+Lambeth,51.49
+Killamarsh,53.3205
+Thames Ditton,51.389
+Horsell,51.3286
+Broadwater,50.8282
+Wilnecote,52.6081
+Tilehurst,51.4579
+Aberbargoed,51.6968
+Littleport,52.4568
+Dunbar,56.0027
+Barwell,52.5682
+Cupar,56.32
+Broughton Astley,52.5278
+Partick,55.8699
+Ifield,51.1234
+Cowley,51.528
+Clayton le Moors,53.775
+Cam,51.7011
+Blackwood,51.67
+Great Billing,52.2577
+Seaton,50.705
+Birtley,54.9
+Glascote,52.6245
+Mountsorrel,52.7167
+Brierfield,53.824
+Heybridge,51.7417
+New Bilton,52.3728
+Exhall,52.47
+Newbold,53.2519
+Cross Gates,53.8063
+Stony Stratford,52.0567
+Rothwell,52.4254
+Rhôs-on-Sea,53.309
+Stonehouse,51.7478
+Sundon,51.92
+Codsall,52.6267
+Attleborough,52.5156
+Hucknall under Huthwaite,53.125
+Pyle,51.5289
+Harefield,51.6034
+Wickersley,53.4199
+Greenhill,51.36
+Roby,53.413
+Lee-on-the-Solent,50.8031
+Kirkham,53.782
+Frampton Cotterell,51.54
+Faringdon,51.657
+Allington,51.2903
+Saint Peters,51.3651
+Shifnal,52.665
+Crewkerne,50.8803
+Westgate on Sea,51.3814
+Warrenpoint,54.0991
+Dowlais,51.762
+Duntocher,55.924
+Thornhill,53.6622
+Gedling,52.975
+Bolton upon Dearne,53.5197
+Godmanchester,52.3176
+Aintree,53.4793
+Pakefield,52.451
+Whetstone,52.5724
+Cove,51.2965
+Bilton,52.3594
+Bothwell,55.8023
+Uddingston,55.8183
+Long Ditton,51.385
+Alcester,52.215
+Handforth,53.35
+Shephall,51.8904
+Dyce,57.2031
+Hollington,50.875
+Llantwit Fardre,51.5578
+Long Ashton,51.43
+Highbridge,51.2189
+Withernsea,53.7285
+Porth,51.6138
+Great Burstead,51.604
+Saltburn-by-the-Sea,54.5828
+Honley,53.6027
+Govan,55.8615
+Cheddar,51.279
+Broughton,53.5638
+Littlemore,51.72
+Kirk Ella,53.7518
+Wadsley,53.41
+Leavesden Green,51.6967
+Lexden,51.8833
+Utley,53.88
+Bridge of Allan,56.155
+Bishopton,55.9086
+Paulton,51.3069
+Wincanton,51.0559
+Church,53.755
+Great Meols,53.4014
+Harleston,52.4024
+Harlescott,52.7365
+Ottery Saint Mary,50.752
+Loughor,51.6626
+North Woolwich,51.501
+Huntington,52.715
+Coedpoeth,53.054
+Somerton,51.0535
+Eton,51.4881
+Old Kilpatrick,55.925
+Kirby Muxloe,52.6351
+Histon,52.2535
+Tillicoultry,56.153
+Nelson,51.651
+Alva,56.153
+Ingatestone,51.67
+Lees,53.538
+Kingsthorpe,52.2625
+Cowpen,55.127
+Wilford,52.926
+Seaton Delaval,55.0729
+Ferndale,51.661
+Grenoside,53.441
+Beddau,51.556
+Banff,57.667
+Bare,54.076
+Chasetown,52.67
+Deanshanger,52.0473
+Tayport,56.4467
+Anstruther,56.2234
+Walton le Dale,53.746
+Watchet,51.1795
+Highcliffe,50.7414
+Kilburn,53.0056
+Llanharan,51.53
+Llanbadarn-fawr,52.408
+Menai Bridge,53.23
+Sherborne Saint John,51.2944
+Clackmannan,56.107
+Swalwell,54.954
+Stainton,54.5211
+Harton,54.881
+Kinghorn,56.07
+Appledore,51.0525
+New Earswick,53.992
+Bushbury,52.62
