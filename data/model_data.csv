@@ -1,296 +1,296 @@
-Season,Gender,Age,Height,Entered,Finalist,Loyalty,Ireland,Islands,Midlands,NFR,North,Scotland,South,Wales
-2,Female,26,66,7,No,1.0,False,False,True,False,False,False,False,False
-1,Male,24,71,32,No,1.0,False,False,False,False,True,False,False,False
-1,Female,22,66,32,No,1.0,False,False,False,False,False,False,True,False
-2,Male,25,74,30,No,1.0,False,False,False,False,False,False,True,False
-7,Female,22,68,1,No,1.0,False,False,False,False,False,True,False,False
-2,Male,20,75,18,No,1.0,False,False,True,False,False,False,False,False
-3,Female,18,68,26,No,1.0,False,False,False,False,False,False,True,False
-3,Female,22,66,26,No,1.0,False,False,False,False,False,False,True,False
-3,Male,22,71,26,No,1.0,False,False,False,False,False,False,True,False
-3,Male,25,69,26,No,1.0,True,False,False,False,False,False,False,False
-3,Female,23,65,26,No,1.0,True,False,False,False,False,False,False,False
-3,Male,25,71,26,No,1.0,False,False,False,False,False,False,True,False
-7,Female,28,67,23,No,1.0,False,False,False,False,False,False,True,False
-7,Male,23,69,4,No,1.0,False,False,False,False,False,False,True,False
-9,Male,24,71,3,No,1.0,False,False,False,False,False,False,True,False
-1,Male,20,71,11,No,0.3333333333333333,False,False,False,False,False,False,True,False
-1,Male,29,73,3,No,1.0,False,False,True,False,False,False,False,False
-1,Male,29,73,3,No,1.0,False,False,True,False,False,False,False,False
-6,Male,23,70,23,No,1.0,False,False,False,False,False,False,True,False
-6,Male,27,68,23,No,1.0,False,False,False,False,False,True,False,False
-6,Male,27,67,23,No,1.0,False,False,False,False,False,False,True,False
-6,Female,25,69,23,No,1.0,False,False,False,False,False,False,True,False
-6,Female,25,63,23,No,1.0,False,False,False,False,False,True,False,False
-6,Male,21,73,23,No,1.0,False,False,False,False,False,False,True,False
-6,Male,23,70,1,No,0.3333333333333333,False,False,False,False,False,False,True,False
-7,Male,24,71,29,No,1.0,False,False,False,False,False,True,False,False
-7,Male,26,70,29,No,1.0,False,False,False,False,False,False,True,False
-7,Female,28,67,29,No,1.0,True,False,False,False,False,False,False,False
-7,Female,22,64,29,No,1.0,False,False,False,False,True,False,False,False
-7,Male,24,74,29,No,1.0,False,False,False,False,False,False,True,False
-7,Female,20,64,29,No,1.0,True,False,False,False,False,False,False,False
-8,Male,22,75,9,No,1.0,False,False,True,False,False,False,False,False
-9,Female,25,65,29,No,1.0,False,False,False,False,False,False,True,False
-9,Female,28,63,29,No,1.0,False,False,False,False,False,False,True,False
-9,Female,22,67,29,No,1.0,False,False,False,False,False,True,False,False
-9,Female,22,70,29,No,1.0,False,False,True,False,False,False,False,False
-9,Female,27,66,29,No,1.0,False,False,True,False,False,False,False,False
-2,Female,25,65,37,No,0.25,False,False,True,False,False,False,False,False
-4,Female,24,67,26,No,1.0,False,False,False,False,False,False,True,False
-4,Male,25,73,26,No,1.0,False,False,True,False,False,False,False,False
-4,Male,25,70,36,No,1.0,False,False,True,False,False,False,False,False
-4,Male,23,70,26,No,1.0,False,False,True,False,False,False,False,False
-4,Male,26,72,36,No,1.0,False,False,False,False,False,False,True,False
-4,Female,22,65,26,No,1.0,False,False,False,False,True,False,False,False
-5,Male,28,72,1,No,0.25,False,False,False,False,False,False,False,True
-5,Male,21,70,26,No,1.0,False,False,True,False,False,False,False,False
-5,Male,22,69,26,No,1.0,False,False,False,False,False,False,True,False
-5,Female,23,65,26,No,1.0,False,False,False,False,False,False,True,False
-5,Female,22,63,26,No,1.0,False,False,True,False,False,False,False,False
-5,Female,29,66,26,No,1.0,False,False,False,False,False,False,True,False
-5,Male,21,72,26,No,1.0,False,True,False,False,False,False,False,False
-8,Female,23,67,27,No,1.0,False,False,False,False,True,False,False,False
-8,Female,21,64,27,No,1.0,False,False,False,False,True,False,False,False
-8,Female,25,68,45,No,0.25,False,False,True,False,False,False,False,False
-8,Male,22,71,1,No,0.25,False,False,False,False,False,False,False,True
-8,Female,23,66,27,No,1.0,False,False,False,False,False,False,True,False
-8,Female,23,71,45,No,0.25,False,False,False,False,False,False,True,False
-8,Male,23,73,45,No,0.25,False,False,True,False,False,False,False,False
-9,Female,25,71,28,No,1.0,False,False,False,False,False,False,True,False
-9,Male,22,72,28,No,1.0,False,False,True,False,False,False,False,False
-9,Male,21,69,28,No,1.0,False,False,False,False,True,False,False,False
-9,Male,22,76,28,No,1.0,False,False,True,False,False,False,False,False
-2,Male,27,71,1,No,1.0,False,False,False,False,True,False,False,False
-3,Female,22,64,26,No,0.2,False,False,False,False,False,False,True,False
-3,Male,27,73,26,No,0.2,False,False,False,False,False,False,True,False
-3,Female,22,67,26,No,0.2,False,False,False,False,False,False,True,False
-3,Male,22,70,1,No,0.2,False,False,True,False,False,False,False,False
-3,Male,24,74,12,No,0.4,False,False,False,False,False,False,True,False
-3,Male,25,76,26,No,0.2,False,False,False,False,False,False,True,False
-4,Male,23,73,8,No,0.2,False,False,False,False,False,False,True,False
-4,Female,26,66,1,No,0.4,False,False,True,False,False,False,False,False
-6,Female,20,65,1,No,1.0,False,False,True,False,False,False,False,False
-7,Male,25,71,18,No,0.2,False,False,True,False,False,False,False,False
-8,Female,25,65,3,No,1.0,False,False,False,False,False,False,True,False
-8,Male,23,71,26,No,1.0,False,False,True,False,False,False,False,False
-8,Male,23,71,26,No,1.0,True,False,False,False,False,False,False,False
-8,Male,22,74,26,No,1.0,False,False,True,False,False,False,False,False
-9,Male,24,72,40,No,0.2,False,False,False,False,True,False,False,False
-3,Male,28,74,19,No,0.3333333333333333,False,False,False,False,True,False,False,False
-4,Male,28,70,26,No,0.16666666666666666,False,False,False,False,False,False,True,False
-4,Female,24,65,26,No,0.16666666666666666,False,False,False,False,False,False,True,False
-4,Female,22,67,26,No,0.16666666666666666,False,False,False,False,False,False,True,False
-5,Female,26,63,10,No,0.16666666666666666,False,False,False,False,False,False,True,False
-6,Male,24,71,16,No,0.16666666666666666,False,False,False,False,False,True,False,False
-7,Female,28,64,17,No,0.16666666666666666,False,False,False,False,False,False,True,False
-7,Male,27,72,44,No,0.16666666666666666,False,False,False,False,True,False,False,False
-8,Male,27,69,45,No,0.16666666666666666,False,False,False,False,True,False,False,False
-1,Female,19,65,14,No,1.0,False,False,False,False,True,False,False,False
-1,Male,22,77,21,No,1.0,False,False,False,False,False,False,True,False
-2,Male,23,72,34,No,0.14285714285714285,False,False,True,False,False,False,False,False
-2,Male,23,69,30,No,0.14285714285714285,False,False,False,False,False,False,True,False
-3,Female,20,65,7,No,1.0,False,False,True,False,False,False,False,False
-4,Male,21,71,43,No,0.14285714285714285,False,False,True,False,False,False,False,False
-4,Female,23,69,43,No,0.14285714285714285,False,False,False,False,False,False,True,False
-5,Female,28,70,18,No,0.14285714285714285,False,False,False,False,False,False,True,False
-6,Female,21,65,23,No,0.14285714285714285,False,False,True,False,False,False,False,False
-6,Male,28,70,31,No,0.14285714285714285,False,False,False,False,False,True,False,False
-6,Male,24,74,23,No,0.14285714285714285,False,False,False,False,False,False,True,False
-2,Female,23,65,7,No,0.125,False,False,False,False,False,False,True,False
-4,Male,23,71,1,No,0.25,False,False,True,False,False,False,False,False
-5,Male,20,73,1,No,0.125,False,False,False,False,False,False,True,False
-6,Male,27,74,5,No,0.125,False,False,False,False,False,False,False,True
-7,Female,23,66,42,No,0.125,False,False,False,False,False,False,True,False
-8,Female,26,64,17,No,0.25,False,False,False,False,False,False,True,False
-8,Male,28,72,17,No,0.25,False,False,False,False,False,False,True,False
-8,Female,23,66,27,No,0.125,False,False,False,False,True,False,False,False
-9,Female,20,68,1,No,0.25,False,False,False,False,False,False,False,True
-9,Male,21,71,1,No,0.25,False,False,False,False,True,False,False,False
-3,Male,25,77,32,No,0.1111111111111111,False,False,False,False,False,False,True,False
-5,Female,20,65,43,No,0.1111111111111111,False,False,False,False,True,False,False,False
-7,Female,25,66,29,No,0.1111111111111111,False,False,False,False,False,False,True,False
-7,Female,23,65,29,No,0.1111111111111111,False,False,False,False,False,False,True,False
-7,Female,29,64,5,No,1.0,False,False,False,False,False,False,True,False
-7,Male,23,73,29,No,0.2222222222222222,False,False,True,False,False,False,False,False
-9,Male,28,77,17,No,0.1111111111111111,False,False,False,False,False,False,True,False
-9,Male,24,72,10,No,0.1111111111111111,False,False,False,False,False,False,True,False
-1,Female,26,70,1,No,0.1,False,False,False,False,False,False,True,False
-4,Male,22,70,26,No,0.1,False,False,True,False,False,False,False,False
-4,Female,25,63,26,No,0.1,False,False,False,False,False,False,True,False
-4,Female,23,67,43,No,0.1,False,False,False,False,False,False,True,False
-4,Female,21,65,15,No,0.1,False,False,False,False,False,False,True,False
-5,Male,22,70,26,No,0.1,False,False,False,False,False,False,True,False
-5,Female,24,64,26,No,0.1,False,False,False,False,False,False,True,False
-7,Male,24,68,42,No,0.1,False,False,False,False,False,False,True,False
-2,Female,20,65,34,Yes,0.18181818181818182,False,False,False,False,False,False,True,False
-5,Male,29,72,14,No,0.09090909090909091,False,False,False,False,True,False,False,False
-9,Female,24,65,40,No,0.09090909090909091,False,False,False,False,False,False,True,False
-1,Female,24,65,7,No,0.08333333333333333,False,False,True,False,False,False,False,False
-3,Female,22,66,34,No,0.16666666666666666,False,False,False,False,False,False,True,False
-4,Female,21,66,1,No,0.16666666666666666,False,False,True,False,False,False,False,False
-5,Female,23,67,37,No,0.16666666666666666,False,False,False,False,False,False,True,False
-8,Female,27,61,27,No,0.16666666666666666,False,False,False,False,False,False,True,False
-9,Male,25,70,7,No,0.08333333333333333,False,False,False,True,False,False,False,False
-9,Male,27,73,28,No,0.08333333333333333,True,False,False,False,False,False,False,False
-1,Female,23,69,1,No,0.23076923076923078,False,False,False,False,False,False,True,False
-2,Female,20,65,20,No,0.07692307692307693,False,False,False,False,False,False,True,False
-5,Male,29,72,26,No,0.07692307692307693,False,False,False,False,False,False,True,False
-7,Male,24,70,29,No,0.15384615384615385,False,False,False,False,False,True,False,False
-8,Male,22,74,26,No,0.15384615384615385,False,False,False,False,False,False,True,False
-9,Female,25,69,3,No,0.07692307692307693,False,False,False,False,False,False,True,False
-2,Male,23,75,1,No,0.14285714285714285,False,False,False,False,False,False,True,False
-2,Female,19,65,27,No,0.07142857142857142,False,False,False,False,False,False,True,False
-2,Male,25,72,1,No,0.21428571428571427,False,False,False,False,False,False,True,False
-6,Male,25,72,1,No,0.14285714285714285,False,False,False,False,False,False,True,False
-8,Female,24,65,1,No,0.07142857142857142,False,False,False,False,False,False,True,False
-8,Male,23,77,1,No,0.07142857142857142,False,False,True,False,False,False,False,False
-5,Male,28,73,37,No,0.13333333333333333,False,False,False,False,False,False,True,False
-5,Male,24,71,43,Yes,0.06666666666666667,True,False,False,False,False,False,False,False
-5,Female,28,66,43,Yes,0.06666666666666667,False,False,True,False,False,False,False,False
-5,Male,22,70,1,No,0.06666666666666667,False,False,False,False,False,False,True,False
-6,Female,25,67,23,No,0.06666666666666667,False,False,True,False,False,False,False,False
-6,Female,20,64,23,No,0.13333333333333333,False,False,True,False,False,False,False,False
-7,Male,26,74,1,No,0.13333333333333333,False,False,False,False,True,False,False,False
-3,Female,23,69,1,No,0.0625,False,False,False,False,False,False,True,False
-4,Male,31,73,43,Yes,0.0625,False,False,False,False,False,False,True,False
-4,Female,26,66,4,No,0.0625,False,False,False,False,False,False,False,True
-5,Female,22,65,26,No,0.0625,False,False,False,False,False,False,True,False
-7,Male,26,78,29,No,0.0625,True,False,False,False,False,False,False,False
-9,Female,25,68,10,No,0.1875,False,False,True,False,False,False,False,False
-4,Male,23,71,26,No,0.058823529411764705,False,False,True,False,False,False,False,False
-6,Female,22,62,1,No,0.058823529411764705,False,False,False,False,False,False,True,False
-8,Female,22,67,27,No,0.11764705882352941,False,False,False,False,False,False,True,False
-9,Male,23,73,28,No,0.058823529411764705,False,False,False,False,False,False,True,False
-1,Male,27,71,1,No,0.16666666666666666,False,False,False,False,True,False,False,False
-6,Female,25,67,23,No,0.05555555555555555,False,False,True,False,False,False,False,False
-7,Female,25,66,1,No,0.1111111111111111,False,False,False,False,False,False,True,False
-8,Male,23,73,26,No,0.1111111111111111,False,False,False,False,False,False,True,False
-4,Female,27,66,38,No,0.05263157894736842,False,False,False,False,False,False,True,False
-7,Female,27,66,23,No,0.10526315789473684,False,False,False,False,False,False,True,False
-7,Female,21,66,9,No,0.15789473684210525,False,False,False,False,False,False,True,False
-1,Female,23,64,21,Yes,0.05,False,False,False,False,True,False,False,False
-1,Male,22,67,1,No,0.1,False,False,True,False,False,False,False,False
-2,Female,21,65,20,No,0.1,False,False,False,False,False,False,True,False
-3,Male,27,73,32,Yes,0.05,False,False,False,False,False,False,True,False
-6,Male,23,76,23,Yes,0.05,False,False,False,False,False,False,True,False
-8,Male,26,77,36,No,0.05,False,False,False,False,True,False,False,False
-1,Female,23,62,7,No,0.047619047619047616,False,False,False,False,False,False,True,False
-2,Female,20,63,1,No,0.14285714285714285,False,False,False,False,True,False,False,False
-5,Female,23,67,1,No,0.09523809523809523,True,False,False,False,False,False,False,False
-6,Female,21,67,9,No,0.14285714285714285,False,False,False,False,True,False,False,False
-6,Female,21,67,1,No,0.14285714285714285,False,False,False,False,False,False,True,False
-3,Female,22,64,1,No,0.13636363636363635,False,False,False,False,False,False,True,False
-3,Male,21,70,1,No,0.22727272727272727,False,False,False,False,True,False,False,False
-9,Female,28,64,23,No,0.09090909090909091,False,False,True,False,False,False,False,False
-7,Female,22,68,29,No,0.13043478260869565,False,False,False,False,True,False,False,False
-8,Male,22,72,26,No,0.13043478260869565,False,False,False,False,True,False,False,False
-9,Female,26,63,1,No,0.08695652173913043,False,False,False,False,False,False,True,False
-2,Female,23,67,1,No,0.08333333333333333,False,False,True,False,False,False,False,False
-3,Male,22,74,26,No,0.041666666666666664,False,False,False,False,True,False,False,False
-4,Male,22,70,1,No,0.08333333333333333,False,False,False,False,False,False,True,False
-3,Female,23,68,19,No,0.16,False,False,False,False,False,False,True,False
-8,Male,28,71,9,No,0.15384615384615385,False,False,False,False,False,True,False,False
-1,Male,22,74,14,Yes,0.037037037037037035,False,False,False,False,True,False,False,False
-2,Male,24,71,18,Yes,0.037037037037037035,False,False,True,False,False,False,False,False
-3,Male,26,70,1,No,0.1111111111111111,False,False,True,False,False,False,False,False
-4,Male,22,75,26,No,0.07407407407407407,False,False,False,False,False,False,True,False
-6,Female,21,63,16,Yes,0.07407407407407407,False,False,False,False,False,False,True,False
-7,Male,24,74,1,No,0.14814814814814814,False,False,False,False,False,False,True,False
-4,Female,20,69,15,No,0.07142857142857142,False,False,False,False,True,False,False,False
-4,Male,25,71,19,No,0.10714285714285714,False,False,True,False,False,False,False,False
-6,Male,23,67,1,No,0.13793103448275862,False,False,False,False,False,False,True,False
-9,Female,24,66,29,Yes,0.034482758620689655,False,False,False,False,True,False,False,False
-5,Female,21,68,26,No,0.03333333333333333,False,False,True,False,False,False,False,False
-5,Male,21,73,6,No,0.1,False,False,False,False,True,False,False,False
-8,Male,23,69,7,No,0.06666666666666667,False,False,False,False,True,False,False,False
-4,Male,22,77,1,No,0.12903225806451613,False,False,False,False,True,False,False,False
-6,Male,24,71,12,Yes,0.0967741935483871,False,False,False,False,True,False,False,False
-6,Male,22,70,12,Yes,0.06451612903225806,False,False,False,False,False,False,True,False
-2,Male,24,72,1,No,0.03125,False,False,False,False,False,False,False,True
-5,Male,28,79,26,Yes,0.09375,False,False,False,False,False,False,True,False
-6,Female,25,64,1,No,0.03125,False,False,False,False,False,False,True,False
-4,Female,23,63,26,Yes,0.030303030303030304,False,False,False,False,False,False,True,False
-1,Male,31,76,1,No,0.11764705882352941,False,False,False,False,False,False,True,False
-1,Female,24,70,1,No,0.08823529411764706,False,False,False,False,False,False,True,False
-2,Male,24,75,11,Yes,0.14705882352941177,True,False,False,False,False,False,False,False
-3,Male,26,70,4,No,0.08823529411764706,False,False,False,False,False,False,True,False
-9,Male,26,72,17,No,0.08823529411764706,False,False,False,False,False,False,True,False
-5,Female,21,65,1,No,0.08571428571428572,False,False,False,False,False,False,True,False
-7,Male,26,77,23,Yes,0.05714285714285714,False,False,False,False,False,False,True,False
-5,Female,26,66,1,No,0.05555555555555555,False,False,False,False,False,False,True,False
-6,Male,23,69,1,No,0.05405405405405406,False,False,True,False,False,False,False,False
-7,Male,24,71,1,No,0.10810810810810811,False,False,False,False,False,False,True,False
-2,Female,30,67,1,No,0.05263157894736842,False,False,False,False,True,False,False,False
-2,Male,28,74,3,No,0.05263157894736842,False,False,False,False,False,False,True,False
-5,Male,24,72,14,No,0.02631578947368421,False,False,True,False,False,False,False,False
-6,Male,20,73,5,Yes,0.02631578947368421,False,False,True,False,False,False,False,False
-4,Female,22,65,1,No,0.07692307692307693,False,False,False,False,False,False,True,False
-8,Female,21,63,12,No,0.15384615384615385,False,False,True,False,False,False,False,False
-1,Female,25,68,1,Yes,0.025,False,False,True,False,False,False,False,False
-1,Female,22,65,1,Yes,0.1,False,False,False,False,False,False,True,False
-1,Male,25,70,1,Yes,0.025,False,False,False,False,False,False,True,False
-1,Male,20,69,1,Yes,0.075,False,False,False,False,True,False,False,False
-1,Female,26,68,1,Yes,0.1,False,False,False,False,False,False,True,False
-1,Male,20,75,1,Yes,0.1,False,False,False,False,False,False,True,False
-6,Male,24,71,1,No,0.075,False,False,True,False,False,False,False,False
-2,Female,20,64,3,Yes,0.023809523809523808,False,False,False,False,False,False,True,False
-6,Female,20,65,1,Yes,0.07142857142857142,False,False,True,False,False,False,False,False
-6,Female,22,61,1,Yes,0.047619047619047616,False,False,False,False,False,True,False,False
-6,Female,25,65,1,Yes,0.07142857142857142,False,False,False,False,False,False,True,False
-4,Female,20,66,4,No,0.06976744186046512,False,False,False,False,True,False,False,False
-2,Female,26,62,1,Yes,0.022727272727272728,False,False,False,False,False,False,True,False
-2,Male,25,67,1,Yes,0.022727272727272728,False,False,False,False,False,False,True,False
-2,Female,22,64,1,Yes,0.09090909090909091,False,False,False,False,False,False,True,False
-9,Female,27,64,1,No,0.11363636363636363,False,False,False,False,False,False,True,False
-9,Female,22,64,14,Yes,0.045454545454545456,False,False,False,False,False,False,True,False
-3,Female,25,61,7,Yes,0.022222222222222223,False,False,True,False,False,False,False,False
-7,Male,26,72,12,Yes,0.021739130434782608,False,False,True,False,False,False,False,False
-3,Male,24,72,4,Yes,0.041666666666666664,False,False,True,False,False,False,False,False
-5,Female,28,66,10,Yes,0.08333333333333333,True,False,False,False,False,False,False,False
-5,Male,27,70,1,No,0.08333333333333333,False,False,False,False,False,False,True,False
-3,Female,21,67,1,No,0.10204081632653061,False,False,False,False,False,False,True,False
-7,Female,24,67,9,Yes,0.02040816326530612,False,False,False,False,False,False,True,False
-9,Female,26,66,7,No,0.02040816326530612,False,False,False,True,False,False,False,False
-3,Female,20,62,1,Yes,0.0784313725490196,False,False,False,False,False,False,False,True
-3,Female,27,63,1,Yes,0.0784313725490196,False,False,False,False,False,True,False,False
-3,Male,21,67,1,Yes,0.0784313725490196,False,False,False,False,False,False,True,False
-3,Male,31,74,1,Yes,0.058823529411764705,False,False,False,False,False,False,True,False
-3,Female,26,71,1,Yes,0.0784313725490196,False,False,False,False,False,False,True,False
-4,Male,26,70,8,Yes,0.0392156862745098,False,False,False,False,False,False,True,False
-4,Female,24,65,8,Yes,0.058823529411764705,False,False,False,False,False,False,True,False
-5,Female,28,69,1,No,0.058823529411764705,False,False,False,False,False,False,True,False
-7,Male,24,71,1,No,0.018867924528301886,False,False,False,False,False,False,True,False
-7,Female,21,63,1,No,0.018867924528301886,False,False,True,False,False,False,False,False
-5,Female,20,64,4,Yes,0.018518518518518517,False,False,True,False,False,False,False,False
-7,Male,21,78,4,Yes,0.037037037037037035,False,False,False,False,False,False,False,True
-5,Male,24,69,1,No,0.09090909090909091,False,False,False,False,False,True,False,False
-8,Female,27,68,3,Yes,0.05454545454545454,False,False,False,False,False,False,True,False
-8,Female,24,65,1,No,0.07272727272727272,False,False,False,False,False,False,False,True
-9,Male,23,75,1,No,0.05454545454545454,False,False,False,False,False,False,True,False
-4,Male,27,73,1,No,0.07142857142857142,False,False,False,False,False,False,False,True
-2,Male,28,75,1,Yes,0.03508771929824561,False,False,True,False,False,False,False,False
-5,Female,21,64,1,Yes,0.08771929824561403,False,False,False,False,True,False,False,False
-5,Male,23,73,1,Yes,0.05263157894736842,False,False,False,False,False,False,True,False
-5,Male,20,72,1,Yes,0.017543859649122806,False,False,True,False,False,False,False,False
-7,Female,25,67,1,Yes,0.05263157894736842,False,False,False,False,False,False,True,False
-7,Female,26,67,1,Yes,0.07017543859649122,False,False,False,False,False,False,True,False
-7,Female,26,63,1,Yes,0.07017543859649122,False,False,False,False,False,False,True,False
-7,Male,22,71,1,Yes,0.07017543859649122,False,False,False,False,False,False,True,False
-8,Male,27,73,1,Yes,0.03508771929824561,False,True,False,False,False,False,False,False
-8,Male,26,71,1,Yes,0.05263157894736842,True,False,False,False,False,False,False,False
-8,Male,27,74,1,Yes,0.05263157894736842,False,False,True,False,False,False,False,False
-8,Female,19,66,1,Yes,0.05263157894736842,False,False,True,False,False,False,False,False
-8,Female,23,63,1,Yes,0.05263157894736842,False,False,False,False,False,False,True,False
-8,Male,23,71,1,Yes,0.05263157894736842,False,False,False,False,False,False,True,False
-8,Female,23,67,1,Yes,0.03508771929824561,False,False,True,False,False,False,False,False
-9,Male,24,76,1,Yes,0.08771929824561403,False,False,True,False,False,False,False,False
-9,Female,25,65,1,Yes,0.07017543859649122,False,False,False,False,False,False,True,False
-9,Male,25,73,1,Yes,0.05263157894736842,False,False,False,False,False,False,True,False
-9,Male,24,72,1,Yes,0.017543859649122806,False,False,False,False,False,False,True,False
-9,Female,22,64,1,Yes,0.03508771929824561,False,False,True,False,False,False,False,False
-9,Male,23,77,1,Yes,0.05263157894736842,False,False,False,False,True,False,False,False
-4,Female,21,61,1,Yes,0.017241379310344827,False,False,False,False,False,False,True,False
-4,Male,26,70,1,Yes,0.017241379310344827,False,False,False,False,False,False,True,False
-4,Female,29,66,1,Yes,0.05172413793103448,False,False,False,False,False,True,False,False
-4,Male,20,70,1,Yes,0.034482758620689655,False,False,False,False,False,False,True,False
+Name,Season,Gender,Age,Height,Entered,Finalist,Loyalty,Ireland,Islands,Midlands,NFR,North,Scotland,South,Wales
+Malia Arkian,2,0,26,66,7,0,1.0,False,False,True,False,False,False,False,False
+Ben Porter,1,1,24,71,32,0,1.0,False,False,False,False,True,False,False,False
+Poppy Farnan,1,0,22,66,32,0,1.0,False,False,False,False,False,False,True,False
+Oliver Maxwell Fernandez,2,1,25,74,30,0,1.0,False,False,False,False,False,False,True,False
+Shannon Singh,7,0,22,68,1,0,1.0,False,False,False,False,False,True,False,False
+James Khan,2,1,20,75,18,0,1.0,False,False,True,False,False,False,False,False
+Amelia Peters,3,0,18,68,26,0,1.0,False,False,False,False,False,False,True,False
+Ellisha-Jade White,3,0,22,66,26,0,1.0,False,False,False,False,False,False,True,False
+Marino Katsouris,3,1,22,71,26,0,1.0,False,False,False,False,False,False,True,False
+Rob Lipsett,3,1,25,69,26,0,1.0,True,False,False,False,False,False,False,False
+Shannen McGrath,3,0,23,65,26,0,1.0,True,False,False,False,False,False,False,False
+Steve Ball,3,1,25,71,26,0,1.0,False,False,False,False,False,False,True,False
+Georgia Townend,7,0,28,67,23,0,1.0,False,False,False,False,False,False,True,False
+Oliver Wallis,7,1,23,69,4,0,1.0,False,False,False,False,False,False,True,False
+David Salako,9,1,24,71,3,0,1.0,False,False,False,False,False,False,True,False
+Chris Baxter,1,1,20,71,11,0,0.3333333333333333,False,False,False,False,False,False,True,False
+John Alberti,1,1,29,73,3,0,1.0,False,False,True,False,False,False,False,False
+Tony Alberti,1,1,29,73,3,0,1.0,False,False,True,False,False,False,False,False
+Alexi Eraclides,6,1,23,70,23,0,1.0,False,False,False,False,False,False,True,False
+Biggs Chris,6,1,27,68,23,0,1.0,False,False,False,False,False,True,False,False
+George Day,6,1,27,67,23,0,1.0,False,False,False,False,False,False,True,False
+Jade Affleck,6,0,25,69,23,0,1.0,False,False,False,False,False,False,True,False
+Jamie McCann,6,0,25,63,23,0,1.0,False,False,False,False,False,True,False,False
+Josh Kempton,6,1,21,73,23,0,1.0,False,False,False,False,False,False,True,False
+Ollie Williams,6,1,23,70,1,0,0.3333333333333333,False,False,False,False,False,False,True,False
+Harry Young,7,1,24,71,29,0,1.0,False,False,False,False,False,True,False,False
+Jack Barlow,7,1,26,70,29,0,1.0,False,False,False,False,False,False,True,False
+Kaila Troy,7,0,28,67,29,0,1.0,True,False,False,False,False,False,False,False
+Lillie Haynes,7,0,22,64,29,0,1.0,False,False,False,False,True,False,False,False
+Medhy Malanda,7,1,24,74,29,0,1.0,False,False,False,False,False,False,True,False
+Salma Naran,7,0,20,64,29,0,1.0,True,False,False,False,False,False,False,False
+Remi Lambert,8,1,22,75,9,0,1.0,False,False,True,False,False,False,False,False
+Cynthia Otseh-Taiwo,9,0,25,65,29,0,1.0,False,False,False,False,False,False,True,False
+Layla Al-Momani,9,0,28,63,29,0,1.0,False,False,False,False,False,False,True,False
+Lydia Karakyriakou,9,0,22,67,29,0,1.0,False,False,False,False,False,True,False,False
+Lynda Flix,9,0,22,70,29,0,1.0,False,False,True,False,False,False,False,False
+Sammy James,9,0,27,66,29,0,1.0,False,False,True,False,False,False,False,False
+Lauren Whiteside,2,0,25,65,37,0,0.25,False,False,True,False,False,False,False,False
+Charlie Williams,4,0,24,67,26,0,1.0,False,False,False,False,False,False,True,False
+Dean Overson,4,1,25,73,26,0,1.0,False,False,True,False,False,False,False,False
+Idris Virgo,4,1,25,70,36,0,1.0,False,False,True,False,False,False,False,False
+Jordan Adefeyisan,4,1,23,70,26,0,1.0,False,False,True,False,False,False,False,False
+Kieran Nicholls,4,1,26,72,36,0,1.0,False,False,False,False,False,False,True,False
+Savanna Darnell,4,0,22,65,26,0,1.0,False,False,False,False,True,False,False,False
+Callum Macleod,5,1,28,72,1,0,0.25,False,False,False,False,False,False,False,True
+Dan Rose,5,1,21,70,26,0,1.0,False,False,True,False,False,False,False,False
+Dennon Lewis,5,1,22,69,26,0,1.0,False,False,False,False,False,False,True,False
+Lavena Back,5,0,23,65,26,0,1.0,False,False,False,False,False,False,True,False
+Maria Wild,5,0,22,63,26,0,1.0,False,False,True,False,False,False,False,False
+Nabila Badda,5,0,29,66,26,0,1.0,False,False,False,False,False,False,True,False
+Stevie Bradley,5,1,21,72,26,0,1.0,False,True,False,False,False,False,False,False
+Cheyanne Kerr,8,0,23,67,27,0,1.0,False,False,False,False,True,False,False,False
+Jazmine Nichol,8,0,21,64,27,0,1.0,False,False,False,False,True,False,False,False
+Lacey Edwards,8,0,25,68,45,0,0.25,False,False,True,False,False,False,False,False
+Liam Llewellyn,8,1,22,71,1,0,0.25,False,False,False,False,False,False,False,True
+Mollie Salmon,8,0,23,66,27,0,1.0,False,False,False,False,False,False,True,False
+Nathalia Campos,8,0,23,71,45,0,0.25,False,False,False,False,False,False,True,False
+Reece Ford,8,1,23,73,45,0,0.25,False,False,True,False,False,False,False,False
+Bayley Mummery,9,0,25,71,28,0,1.0,False,False,False,False,False,False,True,False
+Frankie Davey,9,1,22,72,28,0,1.0,False,False,True,False,False,False,False,False
+Kain Reed,9,1,21,69,28,0,1.0,False,False,False,False,True,False,False,False
+Ryan Weekley,9,1,22,76,28,0,1.0,False,False,True,False,False,False,False,False
+Javi Shephard,2,1,27,71,1,0,1.0,False,False,False,False,True,False,False,False
+Chyna Ellis,3,0,22,64,26,0,0.2,False,False,False,False,False,False,True,False
+Craig Lawson,3,1,27,73,26,0,0.2,False,False,False,False,False,False,True,False
+Danielle Sellers,3,0,22,67,26,0,0.2,False,False,False,False,False,False,True,False
+Harley Judge,3,1,22,70,1,0,0.2,False,False,True,False,False,False,False,False
+Mike Thalassitis,3,1,24,74,12,0,0.4,False,False,False,False,False,False,True,False
+Nathan Joseph,3,1,25,76,26,0,0.2,False,False,False,False,False,False,True,False
+Charlie Frederick,4,1,23,73,8,0,0.2,False,False,False,False,False,False,True,False
+Kendall Rae-Knight,4,0,26,66,1,0,0.4,False,False,True,False,False,False,False,False
+Eve Gale,6,0,20,65,1,0,1.0,False,False,True,False,False,False,False,False
+Danny Bibby,7,1,25,71,18,0,0.2,False,False,True,False,False,False,False,False
+Afia Tonkmor,8,0,25,65,3,0,1.0,False,False,False,False,False,False,True,False
+George Tasker,8,1,23,71,26,0,1.0,False,False,True,False,False,False,False,False
+Jack Keating,8,1,23,71,26,0,1.0,True,False,False,False,False,False,False,False
+Samuel Agbiji,8,1,22,74,26,0,1.0,False,False,True,False,False,False,False,False
+Keanan Brand,9,1,24,72,40,0,0.2,False,False,False,False,True,False,False,False
+Simon Searles,3,1,28,74,19,0,0.3333333333333333,False,False,False,False,True,False,False,False
+Alex Miller,4,1,28,70,26,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Darylle Sargeant,4,0,24,65,26,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Ellie Jones,4,0,22,67,26,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Elma Pazar,5,0,26,63,10,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Wallace Wilson,6,1,24,71,16,0,0.16666666666666666,False,False,False,False,False,True,False,False
+AJ Bunker,7,0,28,64,17,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Brett Staniland,7,1,27,72,44,0,0.16666666666666666,False,False,False,False,True,False,False,False
+Jamie Allen,8,1,27,69,45,0,0.16666666666666666,False,False,False,False,True,False,False,False
+Bethany Rogers,1,0,19,65,14,0,1.0,False,False,False,False,True,False,False,False
+Travis Almond,1,1,22,77,21,0,1.0,False,False,False,False,False,False,True,False
+Adam Jukes,2,1,23,72,34,0,0.14285714285714285,False,False,True,False,False,False,False,False
+Troy Frith,2,1,23,69,30,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Tyne-Lexy Clarson,3,0,20,65,7,0,1.0,False,False,True,False,False,False,False,False
+Josh Mair,4,1,21,71,43,0,0.14285714285714285,False,False,True,False,False,False,False,False
+Stephanie Lam,4,0,23,69,43,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Arabella Chi,5,0,28,70,18,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Eva Zapico,6,0,21,65,23,0,0.14285714285714285,False,False,True,False,False,False,False,False
+Jamie Clayton,6,1,28,70,31,0,0.14285714285714285,False,False,False,False,False,True,False,False
+Jordan Waobikeze,6,1,24,74,23,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Rachel Fenton,2,0,23,65,7,0,0.125,False,False,False,False,False,False,True,False
+Niall Aslam,4,1,23,71,1,0,0.25,False,False,True,False,False,False,False,False
+Sherif Lanre,5,1,20,73,1,0,0.125,False,False,False,False,False,False,True,False
+Connagh Howard,6,1,27,74,5,0,0.125,False,False,False,False,False,False,False,True
+Priya Gopaldas,7,0,23,66,42,0,0.125,False,False,False,False,False,False,True,False
+Antigoni Buxton,8,0,26,64,17,0,0.25,False,False,False,False,False,False,True,False
+Charlie Radnedge,8,1,28,72,17,0,0.25,False,False,False,False,False,False,True,False
+Chyna Mills,8,0,23,66,27,0,0.125,False,False,False,False,True,False,False,False
+Anna-May Robey,9,0,20,68,1,0,0.25,False,False,False,False,False,False,False,True
+Haris Namani,9,1,21,71,1,0,0.25,False,False,False,False,True,False,False,False
+Theo Campbell,3,1,25,77,32,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Harley Brash,5,0,20,65,43,0,0.1111111111111111,False,False,False,False,True,False,False,False
+Amy Day,7,0,25,66,29,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Clarisse Juliette,7,0,23,65,29,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Rachel Finni,7,0,29,64,5,0,1.0,False,False,False,False,False,False,True,False
+Sam Jackson,7,1,23,73,29,0,0.2222222222222222,False,False,True,False,False,False,False,False
+Jordan Odofin,9,1,28,77,17,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Spencer Wilks,9,1,24,72,10,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Rachel Christie,1,0,26,70,1,0,0.1,False,False,False,False,False,False,True,False
+Frankie Foster,4,1,22,70,26,0,0.1,False,False,True,False,False,False,False,False
+Grace Wardle,4,0,25,63,26,0,0.1,False,False,False,False,False,False,True,False
+Laura Crane,4,0,23,67,43,0,0.1,False,False,False,False,False,False,True,False
+Zara McDermott,4,0,21,65,15,0,0.1,False,False,False,False,False,False,True,False
+George Rains,5,1,22,70,26,0,0.1,False,False,False,False,False,False,True,False
+Jourdan Riane,5,0,24,64,26,0,0.1,False,False,False,False,False,False,True,False
+Aaron Simpson,7,1,24,68,42,0,0.1,False,False,False,False,False,False,True,False
+Katie Salmon,2,0,20,65,34,1,0.18181818181818182,False,False,False,False,False,False,True,False
+Tom Walker,5,1,29,72,14,0,0.09090909090909091,False,False,False,False,True,False,False,False
+Rosie Seabrook,9,0,24,65,40,0,0.09090909090909091,False,False,False,False,False,False,True,False
+Daisy Muller,1,0,24,65,7,0,0.08333333333333333,False,False,True,False,False,False,False,False
+Georgia Harrison,3,0,22,66,34,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Hayley Hughes,4,0,21,66,1,0,0.16666666666666666,False,False,True,False,False,False,False,False
+Francesca Allen,5,0,23,67,37,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Coco Lodge,8,0,27,61,27,0,0.16666666666666666,False,False,False,False,False,False,True,False
+Aaron Waters,9,1,25,70,7,0,0.08333333333333333,False,False,False,True,False,False,False,False
+Martin Akinola,9,1,27,73,28,0,0.08333333333333333,True,False,False,False,False,False,False,False
+Danielle Pyne,1,0,23,69,1,0,0.23076923076923078,False,False,False,False,False,False,True,False
+Liana Isadora Van Riel,2,0,20,65,20,0,0.07692307692307693,False,False,False,False,False,False,True,False
+Marvin Brooks,5,1,29,72,26,0,0.07692307692307693,False,False,False,False,False,False,True,False
+Dale Mehmet,7,1,24,70,29,0,0.15384615384615385,False,False,False,False,False,True,False,False
+Josh Le Grove,8,1,22,74,26,0,0.15384615384615385,False,False,False,False,False,False,True,False
+Zara Lackenby-Brown,9,0,25,69,3,0,0.07692307692307693,False,False,False,False,False,False,True,False
+Daniel Lukakis,2,1,23,75,1,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Emma Jane Woodham,2,0,19,65,27,0,0.07142857142857142,False,False,False,False,False,False,True,False
+Rykard Jenkins,2,1,25,72,1,0,0.21428571428571427,False,False,False,False,False,False,True,False
+Connor Durman,6,1,25,72,1,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Amber Beckford,8,0,24,65,1,0,0.07142857142857142,False,False,False,False,False,False,True,False
+Ikenna Ekwonna,8,1,23,77,1,0,0.07142857142857142,False,False,True,False,False,False,False,False
+Chris Taylor,5,1,28,73,37,0,0.13333333333333333,False,False,False,False,False,False,True,False
+Greg O'Shea,5,1,24,71,43,1,0.06666666666666667,True,False,False,False,False,False,False,False
+India Reynolds,5,0,28,66,43,1,0.06666666666666667,False,False,True,False,False,False,False,False
+Joe Garratt,5,1,22,70,1,0,0.06666666666666667,False,False,False,False,False,False,True,False
+Molly Smith,6,0,25,67,23,0,0.06666666666666667,False,False,True,False,False,False,False,False
+Natalia Zoppa,6,0,20,64,23,0,0.13333333333333333,False,False,True,False,False,False,False,False
+Brad McClelland,7,1,26,74,1,0,0.13333333333333333,False,False,False,False,True,False,False,False
+Jessica Shears,3,0,23,69,1,0,0.0625,False,False,False,False,False,False,True,False
+Paul Knops,4,1,31,73,43,1,0.0625,False,False,False,False,False,False,True,False
+Rosie Williams,4,0,26,66,4,0,0.0625,False,False,False,False,False,False,False,True
+Joanna Chimonides,5,0,22,65,26,0,0.0625,False,False,False,False,False,False,True,False
+Matthew MacNabb,7,1,26,78,29,0,0.0625,True,False,False,False,False,False,False,False
+Ellie Spence,9,0,25,68,10,0,0.1875,False,False,True,False,False,False,False,False
+Charlie Brake,4,1,23,71,26,0,0.058823529411764705,False,False,True,False,False,False,False,False
+Leanne Amaning,6,0,22,62,1,0,0.058823529411764705,False,False,False,False,False,False,True,False
+Summer Botwe,8,0,22,67,27,0,0.11764705882352941,False,False,False,False,False,False,True,False
+Maxwell Samuda,9,1,23,73,28,0,0.058823529411764705,False,False,False,False,False,False,True,False
+Chris Williamson,1,1,27,71,1,0,0.16666666666666666,False,False,False,False,True,False,False,False
+Priscilla Anyabu,6,0,25,67,23,0,0.05555555555555555,False,False,True,False,False,False,False,False
+Sharon Gaffka,7,0,25,66,1,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Billy Brown,8,1,23,73,26,0,0.1111111111111111,False,False,False,False,False,False,True,False
+Alexandra Cane,4,0,27,66,38,0,0.05263157894736842,False,False,False,False,False,False,True,False
+Abigail Rawlings,7,0,27,66,23,0,0.10526315789473684,False,False,False,False,False,False,True,False
+Lucinda Strafford,7,0,21,66,9,0,0.15789473684210525,False,False,False,False,False,False,True,False
+Cally Jane Beech,1,0,23,64,21,1,0.05,False,False,False,False,True,False,False,False
+Omar Sultani,1,1,22,67,1,0,0.1,False,False,True,False,False,False,False,False
+Tina Stinnes,2,0,21,65,20,0,0.1,False,False,False,False,False,False,True,False
+Jamie Jewitt,3,1,27,73,32,1,0.05,False,False,False,False,False,False,True,False
+Ched Uzor,6,1,23,76,23,1,0.05,False,False,False,False,False,False,True,False
+Adam Collard,8,1,26,77,36,0,0.05,False,False,False,False,True,False,False,False
+Naomi Ball,1,0,23,62,7,0,0.047619047619047616,False,False,False,False,False,False,True,False
+Zara Holland,2,0,20,63,1,0,0.14285714285714285,False,False,False,False,True,False,False,False
+Yewande Biala,5,0,23,67,1,0,0.09523809523809523,True,False,False,False,False,False,False,False
+Rebecca Gormley,6,0,21,67,9,0,0.14285714285714285,False,False,False,False,True,False,False,False
+Sophie Piper,6,0,21,67,1,0,0.14285714285714285,False,False,False,False,False,False,True,False
+Chloe Crowhurst,3,0,22,64,1,0,0.13636363636363635,False,False,False,False,False,False,True,False
+Sam Gowland,3,1,21,70,1,0,0.22727272727272727,False,False,False,False,True,False,False,False
+Claudia Fogarty,9,0,28,64,23,0,0.09090909090909091,False,False,True,False,False,False,False,False
+Mary Bedford,7,0,22,68,29,0,0.13043478260869565,False,False,False,False,True,False,False,False
+Deji Adeniyi,8,1,22,72,26,0,0.13043478260869565,False,False,False,False,True,False,False,False
+Tanyel Revan,9,0,26,63,1,0,0.08695652173913043,False,False,False,False,False,False,True,False
+Malin Andersson,2,0,23,67,1,0,0.08333333333333333,False,False,True,False,False,False,False,False
+Alex Beattie,3,1,22,74,26,0,0.041666666666666664,False,False,False,False,True,False,False,False
+Eyal Booker,4,1,22,70,1,0,0.08333333333333333,False,False,False,False,False,False,True,False
+Tyla Carr,3,0,23,68,19,0,0.16,False,False,False,False,False,False,True,False
+Jay Younger,8,1,28,71,9,0,0.15384615384615385,False,False,False,False,False,True,False,False
+Max Morley,1,1,22,74,14,1,0.037037037037037035,False,False,False,False,True,False,False,False
+Alex Bowen,2,1,24,71,18,1,0.037037037037037035,False,False,True,False,False,False,False,False
+Dom Lever,3,1,26,70,1,0,0.1111111111111111,False,False,True,False,False,False,False,False
+Jack Fowler,4,1,22,75,26,0,0.07407407407407407,False,False,False,False,False,False,True,False
+Demi Jones,6,0,21,63,16,1,0.07407407407407407,False,False,False,False,False,False,True,False
+Aaron Francis,7,1,24,74,1,0,0.14814814814814814,False,False,False,False,False,False,True,False
+Ellie Brown,4,0,20,69,15,0,0.07142857142857142,False,False,False,False,True,False,False,False
+Sam Bird,4,1,25,71,19,0,0.10714285714285714,False,False,True,False,False,False,False,False
+Nas Majeed,6,1,23,67,1,0,0.13793103448275862,False,False,False,False,False,False,True,False
+Sanam Harrinanan,9,0,24,66,29,1,0.034482758620689655,False,False,False,False,True,False,False,False
+Belle Hassan,5,0,21,68,26,0,0.03333333333333333,False,False,True,False,False,False,False,False
+Danny Williams,5,1,21,73,6,0,0.1,False,False,False,False,True,False,False,False
+Jacques O'Neill,8,1,23,69,7,0,0.06666666666666667,False,False,False,False,True,False,False,False
+Adam Collard,4,1,22,77,1,0,0.12903225806451613,False,False,False,False,True,False,False,False
+Luke Mabbott,6,1,24,71,12,1,0.0967741935483871,False,False,False,False,True,False,False,False
+Luke Trotman,6,1,22,70,12,1,0.06451612903225806,False,False,False,False,False,False,True,False
+Tom Powell,2,1,24,72,1,0,0.03125,False,False,False,False,False,False,False,True
+Ovie Soko,5,1,28,79,26,1,0.09375,False,False,False,False,False,False,True,False
+Shaughna Phillips,6,0,25,64,1,0,0.03125,False,False,False,False,False,False,True,False
+Kazimir Crossley,4,0,23,63,26,1,0.030303030303030304,False,False,False,False,False,False,True,False
+Jordan Ring,1,1,31,76,1,0,0.11764705882352941,False,False,False,False,False,False,True,False
+Zoe Basia Brown,1,0,24,70,1,0,0.08823529411764706,False,False,False,False,False,False,True,False
+Adam Maxted,2,1,24,75,11,1,0.14705882352941177,True,False,False,False,False,False,False,False
+Jonny Mitchell,3,1,26,70,4,0,0.08823529411764706,False,False,False,False,False,False,True,False
+Casey O'Gorman,9,1,26,72,17,0,0.08823529411764706,False,False,False,False,False,False,True,False
+Lucie Donlan,5,0,21,65,1,0,0.08571428571428572,False,False,False,False,False,False,True,False
+Tyler Cruickshank,7,1,26,77,23,1,0.05714285714285714,False,False,False,False,False,False,True,False
+Amy Hart,5,0,26,66,1,0,0.05555555555555555,False,False,False,False,False,False,True,False
+Callum Jones,6,1,23,69,1,0,0.05405405405405406,False,False,True,False,False,False,False,False
+Hugo Hammond,7,1,24,71,1,0,0.10810810810810811,False,False,False,False,False,False,True,False
+Sophie Gradon,2,0,30,67,1,0,0.05263157894736842,False,False,False,False,True,False,False,False
+Terry Walsh,2,1,28,74,3,0,0.05263157894736842,False,False,False,False,False,False,True,False
+Jordan Hames,5,1,24,72,14,0,0.02631578947368421,False,False,True,False,False,False,False,False
+Finley Tapp,6,1,20,73,5,1,0.02631578947368421,False,False,True,False,False,False,False,False
+Samira Mighty,4,0,22,65,1,0,0.07692307692307693,False,False,False,False,False,False,True,False
+Danica Taylor,8,0,21,63,12,0,0.15384615384615385,False,False,True,False,False,False,False,False
+Hannah Elizabeth,1,0,25,68,1,1,0.025,False,False,True,False,False,False,False,False
+Jessica Hayes,1,0,22,65,1,1,0.1,False,False,False,False,False,False,True,False
+Jon Clark,1,1,25,70,1,1,0.025,False,False,False,False,False,False,True,False
+Josh Ritchie,1,1,20,69,1,1,0.075,False,False,False,False,True,False,False,False
+Lauren Richardson,1,0,26,68,1,1,0.1,False,False,False,False,False,False,True,False
+Luis Morrison,1,1,20,75,1,1,0.1,False,False,False,False,False,False,True,False
+Mike Boateng,6,1,24,71,1,0,0.075,False,False,True,False,False,False,False,False
+Kady McDermott,2,0,20,64,3,1,0.023809523809523808,False,False,False,False,False,False,True,False
+Jess Gale,6,0,20,65,1,1,0.07142857142857142,False,False,True,False,False,False,False,False
+Paige Turley,6,0,22,61,1,1,0.047619047619047616,False,False,False,False,False,True,False,False
+Siannise Fudge,6,0,25,65,1,1,0.07142857142857142,False,False,False,False,False,False,True,False
+Georgia Steel,4,0,20,66,4,0,0.06976744186046512,False,False,False,False,True,False,False,False
+Cara De La Hoyde,2,0,26,62,1,1,0.022727272727272728,False,False,False,False,False,False,True,False
+Nathan Massey,2,1,25,67,1,1,0.022727272727272728,False,False,False,False,False,False,True,False
+Olivia Buckland,2,0,22,64,1,1,0.09090909090909091,False,False,False,False,False,False,True,False
+Olivia Hawkins,9,0,27,64,1,0,0.11363636363636363,False,False,False,False,False,False,True,False
+Samie Elishi,9,0,22,64,14,1,0.045454545454545456,False,False,False,False,False,False,True,False
+Gabby Allen,3,0,25,61,7,1,0.022222222222222223,False,False,True,False,False,False,False,False
+Teddy Soares,7,1,26,72,12,1,0.021739130434782608,False,False,True,False,False,False,False,False
+Chris Hughes,3,1,24,72,4,1,0.041666666666666664,False,False,True,False,False,False,False,False
+Maura Higgins,5,0,28,66,10,1,0.08333333333333333,True,False,False,False,False,False,False,False
+Michael Griffiths,5,1,27,70,1,0,0.08333333333333333,False,False,False,False,False,False,True,False
+Montana Brown,3,0,21,67,1,0,0.10204081632653061,False,False,False,False,False,False,True,False
+Millie Court,7,0,24,67,9,1,0.02040816326530612,False,False,False,False,False,False,True,False
+Jessie Wynter,9,0,26,66,7,0,0.02040816326530612,False,False,False,True,False,False,False,False
+Amber Davies,3,0,20,62,1,1,0.0784313725490196,False,False,False,False,False,False,False,True
+Camilla Thurlow,3,0,27,63,1,1,0.0784313725490196,False,False,False,False,False,True,False,False
+Kem Cetinay,3,1,21,67,1,1,0.0784313725490196,False,False,False,False,False,False,True,False
+Marcel Somerville,3,1,31,74,1,1,0.058823529411764705,False,False,False,False,False,False,True,False
+Olivia Attwood,3,0,26,71,1,1,0.0784313725490196,False,False,False,False,False,False,True,False
+Josh Denzel,4,1,26,70,8,1,0.0392156862745098,False,False,False,False,False,False,True,False
+Megan Barton Hanson,4,0,24,65,8,1,0.058823529411764705,False,False,False,False,False,False,True,False
+Anna Vakili,5,0,28,69,1,0,0.058823529411764705,False,False,False,False,False,False,True,False
+Jake Cornish,7,1,24,71,1,0,0.018867924528301886,False,False,False,False,False,False,True,False
+Liberty Poole,7,0,21,63,1,0,0.018867924528301886,False,False,True,False,False,False,False,False
+Molly-Mae Hague,5,0,20,64,4,1,0.018518518518518517,False,False,True,False,False,False,False,False
+Liam Reardon,7,1,21,78,4,1,0.037037037037037035,False,False,False,False,False,False,False,True
+Anton Danyluk,5,1,24,69,1,0,0.09090909090909091,False,False,False,False,False,True,False,False
+Ekin-Su Culculoglu,8,0,27,68,3,1,0.05454545454545454,False,False,False,False,False,False,True,False
+Paige Thorne,8,0,24,65,1,0,0.07272727272727272,False,False,False,False,False,False,False,True
+Will Young,9,1,23,75,1,0,0.05454545454545454,False,False,False,False,False,False,True,False
+Alex George,4,1,27,73,1,0,0.07142857142857142,False,False,False,False,False,False,False,True
+Scott Thomas,2,1,28,75,1,1,0.03508771929824561,False,False,True,False,False,False,False,False
+Amber Gill,5,0,21,64,1,1,0.08771929824561403,False,False,False,False,True,False,False,False
+Curtis Pritchard,5,1,23,73,1,1,0.05263157894736842,False,False,False,False,False,False,True,False
+Tommy Fury,5,1,20,72,1,1,0.017543859649122806,False,False,True,False,False,False,False,False
+Chloe Burrows,7,0,25,67,1,1,0.05263157894736842,False,False,False,False,False,False,True,False
+Faye Winter,7,0,26,67,1,1,0.07017543859649122,False,False,False,False,False,False,True,False
+Kaz Kamwi,7,0,26,63,1,1,0.07017543859649122,False,False,False,False,False,False,True,False
+Toby Aromolaran,7,1,22,71,1,1,0.07017543859649122,False,False,False,False,False,False,True,False
+Andrew Le Page,8,1,27,73,1,1,0.03508771929824561,False,True,False,False,False,False,False,False
+Dami Hope,8,1,26,71,1,1,0.05263157894736842,True,False,False,False,False,False,False,False
+Davide Sanclimenti,8,1,27,74,1,1,0.05263157894736842,False,False,True,False,False,False,False,False
+Gemma Owen,8,0,19,66,1,1,0.05263157894736842,False,False,True,False,False,False,False,False
+Indiyah Polack,8,0,23,63,1,1,0.05263157894736842,False,False,False,False,False,False,True,False
+Luca Bish,8,1,23,71,1,1,0.05263157894736842,False,False,False,False,False,False,True,False
+Tasha Ghouri,8,0,23,67,1,1,0.03508771929824561,False,False,True,False,False,False,False,False
+Kai Fagan,9,1,24,76,1,1,0.08771929824561403,False,False,True,False,False,False,False,False
+Lana Jenkins,9,0,25,65,1,1,0.07017543859649122,False,False,False,False,False,False,True,False
+Ron Hall,9,1,25,73,1,1,0.05263157894736842,False,False,False,False,False,False,True,False
+Shaq Muhammad,9,1,24,72,1,1,0.017543859649122806,False,False,False,False,False,False,True,False
+Tanya Manhenga,9,0,22,64,1,1,0.03508771929824561,False,False,True,False,False,False,False,False
+Tom Clare,9,1,23,77,1,1,0.05263157894736842,False,False,False,False,True,False,False,False
+Dani Dyer,4,0,21,61,1,1,0.017241379310344827,False,False,False,False,False,False,True,False
+Jack Fincham,4,1,26,70,1,1,0.017241379310344827,False,False,False,False,False,False,True,False
+Laura Anderson,4,0,29,66,1,1,0.05172413793103448,False,False,False,False,False,True,False,False
+Wes Nelson,4,1,20,70,1,1,0.034482758620689655,False,False,False,False,False,False,True,False
