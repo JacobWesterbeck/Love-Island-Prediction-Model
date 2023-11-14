@@ -1,13 +1,13 @@
 def train_val_test(data, label):
-    #Split data into train,validate,test splits by season
 
-    # features = ['Name', 'Age', 'other features']
-    # x =  train.loc[:, features]
-    # y = train.loc[:, ['Finalist']]
+    train_szn = [1, 2, 3, 4, 5, 6, 7]
+    validate_szn = 8
+    test_szn = 9
 
-    train = data[data['Season'] <= 7]
-    validate = data[data['Season'] == 8]
-    test = data[data['Season'] == 9]
+
+    train = data[data['Season'].isin(train_szn)]
+    validate = data[data['Season'] == validate_szn]
+    test = data[data['Season'] == test_szn]
 
     x_train = train.drop(columns=[label])
     y_train = train[label]
