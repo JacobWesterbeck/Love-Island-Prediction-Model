@@ -1,6 +1,5 @@
 # Predicting Love Islander Winners
 
-https://github.com/KwameTaylor/bachelorette-predictor --- HUGE INSPO
 ### Repository Table of Contents
 - README
 - Data

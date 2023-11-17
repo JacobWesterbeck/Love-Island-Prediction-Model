@@ -61,7 +61,7 @@ Gathering Physical Attributes:
 
 # Data Dictionary
 
-Data Dictionary Sample
+Data Dictionary
 
 |Term  | Definition                       | Type   |
 |------|----------------------------------|--------|
