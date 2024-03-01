@@ -1,22 +1,30 @@
-### Data Dictionary
-Name - First and last name of the contestants TYPE: String
-Season - Specifies which season the contestant appeared on 
-Gender - Male/Female 
-Age - Age at the time of entry
-Height - Contestant height in inches
-Race - White/Black/Asian/MENAT
-Hair Color - Hair color at time of show Black/Brown/Blone/Red
-Eye Color - Contestants eye color
-Hometown - Contestants hometown
-Region - Region of UK the contestants hometown is in
-Day Entered - Day the contestant entered the villa
-Day Dumped - Day the contestant exited the villa
-Length Of Stay - Day Dumped minus Day Entered
-Original Cast - Was the contestant a Day One cast member? T/F
-Casa Amor Addition - Was the contestant a Casa Amor entry? T/F
-Status - Did the islander place in the top 4 or were they dumped before the finale.
-Unique Partners - How many distinct couples was the islander in while on the show.
-Loyalty Score - Unique Partners divided by Length of Stay
+# Data Dictionary
+
+Below is all data elements used in this project - note that only a handful of these were used for modeling, but all were used at some point in processing/analysis.
+
+ 
+|      Term         |     Type     |                Definition                |
+|-------------------|--------------|------------------------------------------|
+|Name               |string        |   Contestants Name                       |
+|Season             |category      |   Season Contestant Appears On           |
+|Gender             |bool          |   Male Or Female Contestant              |        
+|Age                |int64         |   Age Of Contestant Upon Entry           |        
+|Height             |int64         |   Height Of Contestant In Inches         |        
+|Ethnicity          |category      |   Contestant Ethnicity                   |        
+|Hair               |category      |   Contestant Hair Color                  |        
+|Eye                |category      |   Contestant Eye Color                   |        
+|Hometown           |category      |   Name Of Contestants Hometown           |        
+|Region             |category      |   Name Of Contestants Country            |       
+|Entered            |int64         |   Day Contestant Enters Villa            |       
+|Dumped             |int64         |   Day Contestant Leaves Villa            |      
+|Stay               |int64         |   (Day Dumped - Day Entered)             |
+|OG                 |category      |   Was Contestant An Original Cast Member |
+|Casa               |category      |   Was Contestant A Casa Amor Entry       |
+|Status             |category      |   A Candidates Placement 1-4 or Dumped   |
+|Finalist           |bool          |   Did Candidate Reach Finale             |
+|Unique Partners    |int64         |   Number Of Distinct Partners            |
+|Loyalty Score      |float64       |   (Unique Partners / Length Of Stay)     |
+
 
 ## Data Sources
 Contestant data relating to the show were taken from Love Island wiki pages:
@@ -33,39 +41,9 @@ Season 9: https://loveisland.fandom.com/wiki/Love_Island_(Season_9)
 
 
 
-# Data Type
-Name - Object
-Season - Int
-Gender - Categorical
-Age - Int
-Height - Int
-Race - Categorical
-Hair Color - Categorical
-Eye Color - Categorical
-Hometown - Object
-Region - Categorical
-Day Entered - Int
-Day Dumped - Int
-Length Of Stay - Int
-Original Cast - Categorical
-Casa Amor Addition - Categorical
-Status - Categorical
-Unique Partners - Int
-Loyalty Score - Int
-
-
 Gathering Physical Attributes:
-- Physically-oriented data (Gender, Hair Color, Eye Color) was collected manually by referencing photos at the time of contestants' entry into the villa.
-- Height data was especially challenging to gather due to dispersed sources. Efforts were made to obtain accurate heights from various sources, including contestants' social media, online modeling profiles, and community input from the official Love Island Reddit.
-- For missing heights, estimation was performed based on known heights to achieve the closest approximation possible. Any height minor inaccuracies for a small subset of contestants should have a negligible effect on this model.
-
-# Data Dictionary
-
-Data Dictionary
-
-|Term  | Definition                       | Type   |
-|------|----------------------------------|--------|
-|Name  | Contestants Name                 | Object |
-|Age   | Contesants age on day of entry   | Int    |
-|      |                                  |        |
-|      |                                  |        |
+- Hair Color and Eye Color were collected manually by referencing photos at the time of contestants' entry into the villa.
+- Ethnicity was gathered from the show, contestants were sorted into 4 categories identified by the UK Census Bureau.
+- Height data was especially challenging to gather due to dispersed sources. 
+- Some contestants' heights were revealed during the show itself. 
+- Other contestant heights were pulled from various sources including contestants' social media, online modeling profiles, and community input from the official Love Island Reddit.
