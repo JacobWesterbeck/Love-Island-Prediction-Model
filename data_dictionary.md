@@ -1,6 +1,6 @@
 # Data Dictionary
 
-Below is all data elements used in this project - note that only a handful of these were used for modeling, but all were used at some point in processing/analysis.
+The table below contains all data elements used in this project - note that only a handful of these were used for modeling, but all were used at some point in processing/analysis.
 
  
 |      Term         |     Type     |                Definition                |
@@ -27,23 +27,23 @@ Below is all data elements used in this project - note that only a handful of th
 
 
 ## Data Sources
-Contestant data relating to the show were taken from Love Island wiki pages:
-General Info: https://loveisland.fandom.com/wiki/Love_Island
-Season 1: https://loveisland.fandom.com/wiki/Love_Island_(Season_1)
-Season 2: https://loveisland.fandom.com/wiki/Love_Island_(Season_2)
-Season 3: https://loveisland.fandom.com/wiki/Love_Island_(Season_3)
-Season 4: https://loveisland.fandom.com/wiki/Love_Island_(Season_4)
-Season 5: https://loveisland.fandom.com/wiki/Love_Island_(Season_5)
-Season 6: https://loveisland.fandom.com/wiki/Love_Island_(Season_6)
-Season 7: https://loveisland.fandom.com/wiki/Love_Island_(Season_7)
-Season 8: https://loveisland.fandom.com/wiki/Love_Island_(Season_8)
-Season 9: https://loveisland.fandom.com/wiki/Love_Island_(Season_9)
+Contestant data relating to the show were taken from Love Island wiki pages: <br>
+General Info: https://loveisland.fandom.com/wiki/Love_Island <br>
+Season 1: https://loveisland.fandom.com/wiki/Love_Island_(Season_1) <br>
+Season 2: https://loveisland.fandom.com/wiki/Love_Island_(Season_2) <br>
+Season 3: https://loveisland.fandom.com/wiki/Love_Island_(Season_3) <br>
+Season 4: https://loveisland.fandom.com/wiki/Love_Island_(Season_4) <br>
+Season 5: https://loveisland.fandom.com/wiki/Love_Island_(Season_5) <br>
+Season 6: https://loveisland.fandom.com/wiki/Love_Island_(Season_6) <br>
+Season 7: https://loveisland.fandom.com/wiki/Love_Island_(Season_7) <br>
+Season 8: https://loveisland.fandom.com/wiki/Love_Island_(Season_8) <br>
+Season 9: https://loveisland.fandom.com/wiki/Love_Island_(Season_9) <br>
 
 
 
-Gathering Physical Attributes:
+## Gathering of Physical Attributes:
 - Hair Color and Eye Color were collected manually by referencing photos at the time of contestants' entry into the villa.
-- Ethnicity was gathered from the show, contestants were sorted into 4 categories identified by the UK Census Bureau.
+- Contestants were sorted into 4 categories identified by the UK Census Bureau.
 - Height data was especially challenging to gather due to dispersed sources. 
-- Some contestants' heights were revealed during the show itself. 
-- Other contestant heights were pulled from various sources including contestants' social media, online modeling profiles, and community input from the official Love Island Reddit.
+    - Some contestant heights were revealed during the show itself. 
+    - Other contestant heights were pulled from various sources including contestants' social media and online modeling profiles, as well as community input from the official Love Island Reddit.
